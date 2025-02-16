@@ -1,0 +1,1 @@
+{"units_input": 32, "dropout_input": 0.30000000000000004, "units_hidden1": 96, "l2_hidden1": 0.003, "dropout_hidden1": 0.2, "units_hidden2": 32, "l2_hidden2": 0.001, "dropout_hidden2": 0.5, "optimizer": "adam"}
